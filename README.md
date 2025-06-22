@@ -25,3 +25,5 @@ Repeat the pattern of colors shown — the pattern gets longer and faster as you
 
 
 
+## 🙌 Credits
+Inspired by the classic "Simon" memory game.
