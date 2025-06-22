@@ -24,6 +24,14 @@ Repeat the pattern of colors shown — the pattern gets longer and faster as you
 - **JavaScript** – Game logic and interactivity
 
 
-
 ## 🙌 Credits
 Inspired by the classic "Simon" memory game.
+
+## 📌 To Run Locally
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/isha963/SimonSaysGame.git
+2. Open index2.html in your browser.
+
+3. Start playing!
